@@ -1,0 +1,2 @@
+# remote-component
+test
